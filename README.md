@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @piposanchezman
-- 👀 I’m interested in cybersecurity
+- 👀 I’m interested in Cybersecurity
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Microsoft
 - 📫 How to reach me ...
